@@ -1,0 +1,80 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 1.42857;
+    color: red;
+    background-color: black;
+}
+a.breadcrumbs {
+    color: red;
+}
+
+.panel-footer {
+	background-color: dodgerblue;
+}
+
+#spree-header {
+	background: #1C5C92 url("/assets/spree_header-198b754a34f1428c25f64303be8ac2aae84a076433af18ca55b65d7cbf1a0e13.jpg") repeat scroll center center / cover;
+}
+
+#spree-header #header {
+	background-color: url("/assets/spree_header-198b754a34f1428c25f64303be8ac2aae84a076433af18ca55b65d7cbf1a0e13.jpg");
+}
+
+#spree-header .nav a {
+	color: white;
+}
+
+#spree-header .nav a:hover {
+	background-color: rgba(34, 34, 34, 0.4) none repeat scroll 0% 0%;
+}
+
+.breadcrumb {
+	background-color: blue;
+}
+
+.btn-primary {
+	color: white;
+	background-color: blue; 
+}
+
+.navbar-inverse {
+    background-color: yellow;
+}
+.navbar:after {
+	    background-color: yellow;
+}
+
+.btn-primary:hover {
+	background-color: blue;
+}
+.dropdown-toggle.btn.action-capture {
+		color: black;
+	background-color: green; 
+}
+
+.dropdown-toggle.btn.action-capture:hover {
+	background-color: limegreen; 
+}
+
+a {
+	color: white;
+}
+
+.btn-success {
+	color: white;
+	background-color: forestgreen; 
+}
+.btn-success:hover {
+	background-color: limegreen;
+}
+
+.header-phone {
+	position: absolute;
+	top:0;
+    color: burlywood;
+	right:110px;
+	font-weight: bold;
+	font-size:20px;
+	padding-bottom:10px;
+}
